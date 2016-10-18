@@ -1,0 +1,36 @@
+.green-background {
+  background-color: green;
+}
+
+.yellow-background {
+  background-color: yellow;
+}
+
+.white-background {
+  background-color: white;
+}
+.snickers {
+  color: red;
+  font-style: italic;
+}
+.cheese {
+  color: yellow;
+}
+.chicken {
+  color: orange;
+}
+.kangaroo {
+  color: turquoise;
+}
+
+.btn-success {
+  background-color: green;
+}
+
+.btn-warning {
+  background-color: yellow;
+}
+
+.btn-white {
+  background-color: white;
+}
