@@ -34,3 +34,20 @@
 .btn-white {
   background-color: white;
 }
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+.panel-body {
+  background: none;
+}
+
+.box {
+  border: 2px solid red;
+  background-color: turquoise;
+}

@@ -13,4 +13,9 @@ $(document).ready(function() {
     $("body").removeClass();
     $("body").addClass("white-background");
   });
+
+  $(".clickable").click(function() {
+
+    $(this).toggleClass("box");
+  });
 });
